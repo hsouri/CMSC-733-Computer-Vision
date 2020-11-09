@@ -4,6 +4,7 @@ CMSC 733 Computer Vision Projects
 # Projects Links
 
 [Homework 0: Shake My Boundary part1](https://github.com/hsouri/Boundary-Detection)
+
 [Homework 0: Shake My Boundary part2](https://github.com/hsouri/ResNet-ResNeXt-DenseNet)
 
 [Project 1: My AutoPano](https://github.com/hsouri/panorama_image)
